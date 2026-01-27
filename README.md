@@ -187,6 +187,7 @@ republicd tx staking create-validator $HOME/.republic/validator.json \
 ```
 
 ***Delete Node***
+
 WARNING! Use this command wisely Backup your key first it will remove Defund from your system
 ```
 sudo systemctl stop republicd
@@ -198,4 +199,5 @@ rm -rf .republic
 ```
 
 ***Special thanks to Vinjan Inc. for permission to share this tutorial***
+
 Source : https://vinjan-inc.com/
